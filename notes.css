@@ -1,0 +1,22 @@
+
+
+html,body{
+    background-image: url('./wp5462449-windows-10-hd-desktop-full-screen-wallpapers.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    font-family: 'Numans', sans-serif;
+    }
+header{
+    position: absolute;
+ top: -5px;
+}
+.Sem{
+  display: flex;
+  flex-direction: column;
+  font-size: 40px;
+  align-items: center;
+  font-weight: bold;
+  letter-spacing: .5rem;
+  color: blanchedalmond;
+}
